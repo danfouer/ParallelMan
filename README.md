@@ -42,7 +42,7 @@ pip install chatterbot
 # Create your own Corpus Training data:https://github.com/gunthercox/chatterbot-corpus
 Chatterbot is a very flexible and dynamic chatbot that you easily can create your own training data and structure.
 
-Create or copy an existing .yml file and put that file in a existing or a new directory you created under `\Anaconda3\Lib\site-packages\chatterbot_corpus\data\chinese\children.yml`
+Create or copy an existing .yml file and put that file in a existing or a new directory you created under `\Anaconda3\Lib\site-packages\chatterbot_corpus\data\chinese\*.yml` and `\Anaconda3\Lib\site-packages\chatterbot_corpus\data\english\*.yml`
 Edit that file with any text editor that you like to work with.
 
 In the beginning of the file you set one or two categories.
