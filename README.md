@@ -41,7 +41,7 @@ pip install chatterbot
 # 注意事项
 1. Run Jupyter Notebook from Anaconda
 2. Changing BotName="肖恩" to your wechat name
-3. 用CRTL-C退出
+3. 用CRTL-C退出Jupyter Notebook,可以在outputweixin文件夹中获取这次测试的聊天数据，images文件夹中获取下载得图片
 
 # 建立自己的训练库:https://github.com/gunthercox/chatterbot-corpus
 Chatterbot is a very flexible and dynamic chatbot that you easily can create your own training data and structure.
