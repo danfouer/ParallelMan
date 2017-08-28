@@ -1,4 +1,5 @@
 # ParallelMan平行人
+
 “以后不但物理世界有一个你，在虚拟的网络世界里还有多个平行的“你”，时时刻刻伴你生活、学习、工作……，这个虚拟的你可以在许多方面督促、帮助、指引物理空间中的你，与你一起成长、变化，协助你解决各种问题。未来的世界，一定是真人与虚人一体化的平行人”
 
 “将来，一定是真人与虚人一体化的平行人：平行人=人+i人，平行物=物+i物，开始是虚实的一对一，然后是一对多，多对一，最后是多对多，形成虚实互动、互生、互存的平行社会。”
@@ -39,7 +40,7 @@ pip install chatterbot
 1. Run Jupyter Notebook from Anaconda
 2. Changing BotName="肖恩" to your wechat name
 
-# Create your own Corpus Training data:https://github.com/gunthercox/chatterbot-corpus
+# 建立自己的训练库:https://github.com/gunthercox/chatterbot-corpus
 Chatterbot is a very flexible and dynamic chatbot that you easily can create your own training data and structure.
 
 Create or copy an existing .yml file and put that file in a existing or a new directory you created under `\Anaconda3\Lib\site-packages\chatterbot_corpus\data\chinese\*.yml` and `\Anaconda3\Lib\site-packages\chatterbot_corpus\data\english\*.yml`
