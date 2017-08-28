@@ -1,3 +1,4 @@
+
 # ParallelMan
 At the beginning, a ParallelMan is you pet. Then with it growing up, it will be your assistant. When you get older, it will become your autobiography. At the end of your life, it will become you soul, a soul will never disappear
 # installing Anaconda Python 3.6 version: https://www.anaconda.com/download/
@@ -26,3 +27,4 @@ conversations:
 - - 你会解答哪些问题？
   - 有关青少年家庭、学校、自我、朋友、健康、娱乐、性、道德、爱情等方面的问题
 - - 你还会什么？
+............
