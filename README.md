@@ -1,3 +1,5 @@
+# 用自己的微信聊天数据，去训练自己的平行人
+
 # ParallelMan平行人
 
 “以后不但物理世界有一个你，在虚拟的网络世界里还有多个平行的“你”，时时刻刻伴你生活、学习、工作……，这个虚拟的你可以在许多方面督促、帮助、指引物理空间中的你，与你一起成长、变化，协助你解决各种问题。未来的世界，一定是真人与虚人一体化的平行人”
@@ -39,6 +41,7 @@ pip install chatterbot
 # 注意事项
 1. Run Jupyter Notebook from Anaconda
 2. Changing BotName="肖恩" to your wechat name
+3. 用CRTL-C退出
 
 # 建立自己的训练库:https://github.com/gunthercox/chatterbot-corpus
 Chatterbot is a very flexible and dynamic chatbot that you easily can create your own training data and structure.
