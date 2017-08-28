@@ -1,5 +1,5 @@
 # ParallelMan
-At the beginning, a ParallelMan is you pet. Then with it grow up, it will be your assistant. When you get older, it will become your autobiography. At the end of your life, it will become you soul, a soul will never disappear
+At the beginning, a ParallelMan is you pet. Then with it growing up, it will be your assistant. When you get older, it will become your autobiography. At the end of your life, it will become you soul, a soul will never disappear
 # installing itchat:https://github.com/danfouer/ItChat
 pip install itchat
 # installing ChatterBot :https://github.com/danfouer/ChatterBot
